@@ -37,6 +37,7 @@ export default function RootLayout({
     <html lang="en" suppressHydrationWarning>
       <head>
         <link rel="manifest" href="/manifest.json" />
+        <meta name="theme-color" content="#262424" />
       </head>
       <body className={inter.className}>
         <ConvexClientProvider>
