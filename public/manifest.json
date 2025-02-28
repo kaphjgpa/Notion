@@ -1,0 +1,70 @@
+{
+  "name": "Notion",
+  "short_name": "Notion",
+  "description": "Watch movies and TV shows seamlessly with Stream Heaven",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#262424",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icons/Notion-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/Notion-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/screenshots/splash-screen.png",
+      "type": "image/png",
+      "sizes": "1080x1920"
+    },
+    {
+      "src": "/screenshots/mobile-home.png",
+      "type": "image/png",
+      "sizes": "1080x1920"
+    },
+    {
+      "src": "/screenshots/mobile-web-series.png",
+      "type": "image/png",
+      "sizes": "1080x1920"
+    },
+    {
+      "src": "/screenshots/mobile-landscape.png",
+      "type": "image/png",
+      "sizes": "1080x1920"
+    },
+    {
+      "src": "/screenshots/homepage.png",
+      "type": "image/png",
+      "sizes": "1920x1080"
+    },
+    {
+      "src": "/screenshots/homepage-2.png",
+      "type": "image/png",
+      "sizes": "1920x1080"
+    },
+    {
+      "src": "/screenshots/web-series.png",
+      "type": "image/png",
+      "sizes": "1920x1080"
+    },
+    {
+      "src": "/screenshots/moviePage.png",
+      "type": "image/png",
+      "sizes": "1920x1080"
+    }
+  ],
+  "categories": ["entertainment", "video", "movies", "tv", "web series"],
+  "permissions": ["fullscreen"],
+  "scope": "/",
+  "id": "https://notiondocs.vercel.app/",
+  "dir": "ltr",
+  "lang": "en-US"
+}
