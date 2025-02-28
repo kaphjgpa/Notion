@@ -26,7 +26,6 @@ export const metadata: Metadata = {
       },
     ],
   },
-  manifest: "/manifest.json",
 };
 
 export default function RootLayout({
@@ -36,6 +35,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning>
+      <head>
+        <link rel="manifest" href="/manifest.json" />
+      </head>
       <body className={inter.className}>
         <ConvexClientProvider>
           <EdgeStoreProvider>
