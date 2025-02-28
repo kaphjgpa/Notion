@@ -1,7 +1,7 @@
 {
   "name": "Notion",
   "short_name": "Notion",
-  "description": "Watch movies and TV shows seamlessly with Stream Heaven",
+  "description": "Your Ideas. Documents, & Plans. Unified. Welcome to Notion. Notion is the connected workspace where better, faster work happens.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#000000",
@@ -21,47 +21,37 @@
   ],
   "screenshots": [
     {
-      "src": "/screenshots/splash-screen.png",
-      "type": "image/png",
-      "sizes": "1080x1920"
-    },
-    {
-      "src": "/screenshots/mobile-home.png",
-      "type": "image/png",
-      "sizes": "1080x1920"
-    },
-    {
-      "src": "/screenshots/mobile-web-series.png",
-      "type": "image/png",
-      "sizes": "1080x1920"
-    },
-    {
-      "src": "/screenshots/mobile-landscape.png",
-      "type": "image/png",
-      "sizes": "1080x1920"
-    },
-    {
       "src": "/screenshots/homepage.png",
       "type": "image/png",
-      "sizes": "1920x1080"
+      "sizes": "1080x1920"
     },
     {
-      "src": "/screenshots/homepage-2.png",
+      "src": "/screenshots/loginpage.png",
       "type": "image/png",
-      "sizes": "1920x1080"
+      "sizes": "1080x1920"
     },
     {
-      "src": "/screenshots/web-series.png",
+      "src": "/screenshots/afterlogin.png",
       "type": "image/png",
-      "sizes": "1920x1080"
+      "sizes": "1080x1920"
     },
     {
-      "src": "/screenshots/moviePage.png",
+      "src": "/screenshots/documentvideo.png",
       "type": "image/png",
-      "sizes": "1920x1080"
+      "sizes": "1080x1920"
+    },
+    {
+      "src": "/screenshots/publish.png",
+      "type": "image/png",
+      "sizes": "1080x1920"
+    },
+    {
+      "src": "/screenshots/publishedlink.png",
+      "type": "image/png",
+      "sizes": "1080x1920"
     }
   ],
-  "categories": ["entertainment", "video", "movies", "tv", "web series"],
+  "categories": ["documents", "icons", "notes", "note", "notes sharing"],
   "permissions": ["fullscreen"],
   "scope": "/",
   "id": "https://notiondocs.vercel.app/",
